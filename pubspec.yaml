@@ -1,7 +1,7 @@
 name: ma_flutter_commons
 description: "Flutter utilities used in MA"
 version: 0.0.1
-homepage: ''
+homepage: 'https://www..com'
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
