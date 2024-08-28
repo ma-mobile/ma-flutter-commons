@@ -1,4 +1,4 @@
-<a href="https://github.com/ma-mobile/ma-flutter-commons/actions"><img src="https://github.com/ma-mobile/ma-flutter-commons/actions/workflows/ma-flutter-commons-test-suite.yml/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/ma-mobile/ma-flutter-commons/actions"><img src="https://github.com/ma-mobile/ma-flutter-commons/workflows/Build/badge.svg" alt="Build Status"></a>
 
 # ma_flutter_commons
 
